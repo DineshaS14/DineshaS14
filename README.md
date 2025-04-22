@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesha Shair</h1>
 <h3 align="center">A passionate problem solver from USA</h3>
 
-- 👨‍💻 All of my projects are available at [dineshashair.me](dineshashair.me)
+- 👨‍💻 All of my projects are available at [https://dineshashair.me/](dineshashair.me)
 
 - 💬 Ask me about **java, data structures and Algorithms**
 
